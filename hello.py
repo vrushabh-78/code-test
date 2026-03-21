@@ -1,2 +1,2 @@
 
-print("Hello wolrd from d-1")
+print("Hello wolrd from main")
