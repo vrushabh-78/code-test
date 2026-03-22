@@ -1,2 +1,1 @@
-print("Hello from developer2")
-
+print("Hello from main")
