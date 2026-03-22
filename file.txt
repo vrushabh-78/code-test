@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 hello world form main
+=======
+hello world  from branch d-1
+
+>>>>>>> d-1
